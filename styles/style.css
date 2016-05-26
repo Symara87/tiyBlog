@@ -1,3 +1,18 @@
-* {
-	color:red;
+#recTop {
+  width: ;
+  height: ;
+  position:relative;
 }
+
+#logo {
+  position:absolute; 
+  border-radius: 50%;
+}
+
+
+.rightColumn {
+width:
+height:
+display: inline-block; 
+}
+
