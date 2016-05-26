@@ -1,6 +1,5 @@
 #recTop {
-  width: ;
-  height: ;
+  width: 100%;
   position:relative;
 }
 
@@ -11,8 +10,7 @@
 
 
 .rightColumn {
-width:
-height:
-display: inline-block; 
+	width: 70%;
+	display: inline-block; 
 }
 
